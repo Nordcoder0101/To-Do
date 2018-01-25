@@ -1,0 +1,19 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "To do list",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nordcoder0101/To-Do.git"
+  },
+  "author": "Greg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nordcoder0101/To-Do/issues"
+  },
+  "homepage": "https://github.com/Nordcoder0101/To-Do#readme"
+}
